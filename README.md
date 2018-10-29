@@ -1,2 +1,3 @@
 # quick-scrape
-A scraping tool built with Cheerio and Puppeteer
+
+A scraping tool built with Puppeteer
