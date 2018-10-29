@@ -1,0 +1,221 @@
+[
+  {
+    "title": "Precourse DS"
+  },
+  {
+    "title": "Intro to Data Science",
+    "href": "http://ls-training-kit.netlify.com/ds-pre/sprint/recimtnGaWpVMMDZw"
+  },
+  {
+    "title": "DS - Descriptive Statistics"
+  },
+  {
+    "title": "Dealing with Data",
+    "href": "http://ls-training-kit.netlify.com/ds/sprint/recdUopSfNqeQDWwn"
+  },
+  {
+    "title": "Storytelling with Data",
+    "href": "http://ls-training-kit.netlify.com/ds/sprint/recmV3C1f0V0WI9kI"
+  },
+  {
+    "title": "Creating Effective Reports",
+    "href": "http://ls-training-kit.netlify.com/ds/sprint/rec4hdPIn5zP7PmIl"
+  },
+  {
+    "title": "Hypothesis Testing",
+    "href": "http://ls-training-kit.netlify.com/ds/sprint/recorynMW4uJ05ASZ"
+  },
+  {
+    "title": "DS Project 1 - Exploring Data",
+    "href": "http://ls-training-kit.netlify.com/ds/sprint/recLBojP7nFYhz1EM"
+  },
+  {
+    "title": "DS - Predictive Statistics"
+  },
+  {
+    "title": "Linear Algebra",
+    "href": "http://ls-training-kit.netlify.com/ds/sprint/recr0kuGaz6Uf4axZ"
+  },
+  {
+    "title": "Linear Regression",
+    "href": "http://ls-training-kit.netlify.com/ds/sprint/rec4dSxzmGcaJu6da"
+  },
+  {
+    "title": "Advanced Regression",
+    "href": "http://ls-training-kit.netlify.com/ds/sprint/rec1n1XpuGz9uPzck"
+  },
+  {
+    "title": "Model Validation",
+    "href": "http://ls-training-kit.netlify.com/ds/sprint/rec6hp8t7IDTwiPnF"
+  },
+  {
+    "title": "DS Project 2 - Predicting Data",
+    "href": "http://ls-training-kit.netlify.com/ds/sprint/recqM2q87vqT3mWvi"
+  },
+  {
+    "title": "DS - Data Engineering"
+  },
+  {
+    "title": "Software Engineering and Reproducible Research",
+    "href": "http://ls-training-kit.netlify.com/ds/sprint/recA7O3QeO8AQxsxE"
+  },
+  {
+    "title": "Databases",
+    "href": "http://ls-training-kit.netlify.com/ds/sprint/recV8wEgPdwWmUInW"
+  },
+  {
+    "title": "Productization",
+    "href": "http://ls-training-kit.netlify.com/ds/sprint/recvbdRfBNCqSB4hd"
+  },
+  {
+    "title": "Big Data",
+    "href": "http://ls-training-kit.netlify.com/ds/sprint/recADjP90jTWtUcWL"
+  },
+  {
+    "title": "DS Project 3 - Reproducible Data Science",
+    "href": "http://ls-training-kit.netlify.com/ds/sprint/recUobfsXtPc0GUEF"
+  },
+  {
+    "title": "DS - Machine Learning"
+  },
+  {
+    "title": "Unsupervised Learning",
+    "href": "http://ls-training-kit.netlify.com/ds/sprint/recDHFxsTGkUtLrLI"
+  },
+  {
+    "title": "Natural Language Processing",
+    "href": "http://ls-training-kit.netlify.com/ds/sprint/recBptZbfRxhQFbIE"
+  },
+  {
+    "title": "Tree Ensembles",
+    "href": "http://ls-training-kit.netlify.com/ds/sprint/recrjAqMx8qvSjaeE"
+  },
+  {
+    "title": "Neural Networks",
+    "href": "http://ls-training-kit.netlify.com/ds/sprint/rec5inpL5t6W30CFH"
+  },
+  {
+    "title": "DS Project 4 - Advanced Prediction",
+    "href": "http://ls-training-kit.netlify.com/ds/sprint/rec16ljHxQK6XRfQe"
+  },
+  {
+    "title": "Lambda Labs"
+  },
+  {
+    "title": "Lambda Labs",
+    "href": "http://ls-training-kit.netlify.com/labs/sprint/recUmTvKqRFGMX228"
+  },
+  {
+    "title": "Labs I",
+    "href": "http://ls-training-kit.netlify.com/labs/sprint/recUHb6DrRIIYiDwr"
+  },
+  {
+    "title": "Labs II",
+    "href": "http://ls-training-kit.netlify.com/labs/sprint/recs22te7oY64llAl"
+  },
+  {
+    "title": "Labs III",
+    "href": "http://ls-training-kit.netlify.com/labs/sprint/rec33mGVnhCZFVYWa"
+  },
+  {
+    "title": "Labs IV",
+    "href": "http://ls-training-kit.netlify.com/labs/sprint/rechzyZDlGMxI9ApR"
+  },
+  {
+    "title": "Labs V",
+    "href": "http://ls-training-kit.netlify.com/labs/sprint/rec0dFYFDBfPWZclR"
+  },
+  {
+    "title": "Labs VI",
+    "href": "http://ls-training-kit.netlify.com/labs/sprint/recf038OEc5Eh5hHw"
+  },
+  {
+    "title": "Labs VII",
+    "href": "http://ls-training-kit.netlify.com/labs/sprint/recEuwKjl4wOo4YHs"
+  },
+  {
+    "title": "Computer Science"
+  },
+  {
+    "title": "Intro to Python/OOP",
+    "href": "http://ls-training-kit.netlify.com/cs/sprint/recd4D4w3QrigPqUF"
+  },
+  {
+    "title": "Algorithms and Data Structures",
+    "href": "http://ls-training-kit.netlify.com/cs/sprint/recd9grrKlURJ453N"
+  },
+  {
+    "title": "Graphs",
+    "href": "http://ls-training-kit.netlify.com/cs/sprint/rec7U9K7OCL5ihj0t"
+  },
+  {
+    "title": "Intro to Django",
+    "href": "http://ls-training-kit.netlify.com/cs/sprint/recKzV5STy8vYnbQ1"
+  },
+  {
+    "title": "Project Week: LambdaMUD",
+    "href": "http://ls-training-kit.netlify.com/cs/sprint/recm4nrk0VPEMz8w8"
+  },
+  {
+    "title": "Intro to C",
+    "href": "http://ls-training-kit.netlify.com/cs/sprint/recQ277OLX2zZXPKd"
+  },
+  {
+    "title": "Hash Tables/Theory of Computation",
+    "href": "http://ls-training-kit.netlify.com/cs/sprint/recAr3gdL8U57eho1"
+  },
+  {
+    "title": "Computer Architecture",
+    "href": "http://ls-training-kit.netlify.com/cs/sprint/recndTnO1V8oDbBPb"
+  },
+  {
+    "title": "Web Server",
+    "href": "http://ls-training-kit.netlify.com/cs/sprint/recTXsleEkanZP75b"
+  },
+  {
+    "title": "Project Week: Cellular Automata",
+    "href": "http://ls-training-kit.netlify.com/cs/sprint/recTTpwFpgZXtPG2o"
+  },
+  {
+    "title": "Career Development"
+  },
+  {
+    "title": "Career Development I",
+    "href": "http://ls-training-kit.netlify.com/cd/sprint/recik8Jydie2A0lEa"
+  },
+  {
+    "title": "Career Development II",
+    "href": "http://ls-training-kit.netlify.com/cd/sprint/rech7g4cZNrvEr5KW"
+  },
+  {
+    "title": "Career Development III",
+    "href": "http://ls-training-kit.netlify.com/cd/sprint/recq8e4kAHFyR28ju"
+  },
+  {
+    "title": "Lambda Next"
+  },
+  {
+    "title": "Next Week I",
+    "href": "http://ls-training-kit.netlify.com/nxt/sprint/recYAVDyqBLE0zUqT"
+  },
+  {
+    "title": "Next Week II",
+    "href": "http://ls-training-kit.netlify.com/nxt/sprint/rec69NXTYEPdeasAh"
+  },
+  {
+    "title": "Next Week III",
+    "href": "http://ls-training-kit.netlify.com/nxt/sprint/recpEBn4k5cou9jIV"
+  },
+  {
+    "title": "Next Week IV",
+    "href": "http://ls-training-kit.netlify.com/nxt/sprint/recFfdFjGKS3RGPAf"
+  },
+  {
+    "title": "Next Week V",
+    "href": "http://ls-training-kit.netlify.com/nxt/sprint/reczSWy1eB5WbHfmF"
+  },
+  {
+    "title": "Next Week VI",
+    "href": "http://ls-training-kit.netlify.com/nxt/sprint/rec9zhM85zmepFMCz"
+  }
+]

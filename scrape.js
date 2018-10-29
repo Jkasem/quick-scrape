@@ -1,3 +1,4 @@
+const fs = require("fs");
 const puppeteer = require("puppeteer");
 const config = require("./config");
 
@@ -11,7 +12,7 @@ const config = require("./config");
 
   const result = await page.evaluate(selector => {
     const data = []; // Create an empty array that will store our data
-    const elements = document.querySelectorAll(`${selector}`); // Select all
+    const elements = document.querySelectorAll(selector); // Select all
     for (const element of elements) {
       // Loop through each
       let title = element.innerText; // Select a link title
@@ -22,6 +23,17 @@ const config = require("./config");
 
     return data; // Return our data array
   }, config.selector);
-  console.log(result);
   await browser.close();
+
+  fs.writeFile(
+    "./data/results.json",
+    JSON.stringify(result, null, 2),
+    "utf8",
+    function(err) {
+      if (err) {
+        return console.log(err);
+      }
+      console.log("Success");
+    }
+  );
 })();
