@@ -5,6 +5,16 @@ const config = require("./config");
 (async () => {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
+
+  // TODO: ad blocker
+
+  if (config.LinkedIn)
+    await page.setCookie({
+      name: "li_at",
+      value: config.LinkedInCookie,
+      domain: "www.linkedin.com",
+    });
+
   await page.goto(config.URL, {
     timeout: 25000,
     waitUntil: "networkidle2",
